@@ -54,3 +54,5 @@ Thumbs.db
 # Google / service credentials (if used)
 *.json
 !service-account.example.json
+!package.json
+!package-lock.json
